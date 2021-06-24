@@ -24,7 +24,7 @@ THEN I am prompted to enter the intern’s name, ID, email, and school, and I am
 WHEN I decide to finish building my team \
 THEN I exit the application, and the HTML is generated
 
-[Walkthrough Video](https://drive.google.com/file/d/17GPw-ILudkggdSmGnCbQTOvAZ3lIHn7b/preview)
+[Walk-through Video](https://drive.google.com/file/d/17GPw-ILudkggdSmGnCbQTOvAZ3lIHn7b/preview)
 
 ## Website
 [Team Profile Generator](https://mschellberg.github.io/team-profile-generator/)
